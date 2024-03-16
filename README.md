@@ -1,6 +1,6 @@
 # RSG_fireEffect
  -  you can use this script to show a fire effect when the player is on fire 
-
+ - all players around you will see the fire effect as well 
 
 ## Installation
 
