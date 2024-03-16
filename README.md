@@ -14,3 +14,6 @@ You're all set!
  -  you can use this script to show a fire effect when the player is on fire 
  - all players around you will see the fire effect as well 
 
+## Credit 
+
+uses the same why Txadmin dose for the effect when changeing modes 
