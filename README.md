@@ -1,4 +1,5 @@
-# RSG_fireEffect
+# RSG_fireEffect 
+- (Standalone REDM)
 
 ## Installation
 
