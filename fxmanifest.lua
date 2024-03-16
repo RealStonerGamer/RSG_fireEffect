@@ -1,6 +1,6 @@
-author 'RSG'
-version '1.2'
-description 'This script allows you to use, depending on the item, different fireworks (with sound) and a bonfire of smoke to send signals.'
+author 'Real Stoner Gamer'
+version '1.1'
+description 'ou can use this script to show a fire effect when the player is on fire'
 
 fx_version "adamant"
 lua54 "on"
