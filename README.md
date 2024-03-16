@@ -17,4 +17,4 @@ You're all set!
 
 ## Credit 
 
-uses the same why Txadmin dose for the effect when changeing modes 
+uses the same way Txadmin dose for the effect when changeing modes 
